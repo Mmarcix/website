@@ -1,0 +1,37 @@
+header {background-color: rgb(163, 206, 219);
+      height: 50px;
+      width: 150px;
+      text-align: center;
+      padding: 20%;
+      border: 20px; ;
+      border-color: blueviolet;
+      border-style:outset;
+      margin: 50px;
+      border-radius: 30px;
+      float:left;
+    }
+
+
+
+ h1 {color: teal;
+     font-family:fantasy}
+    
+
+div {float:none}
+
+
+a:link {
+    color:unset;
+    text-decoration: none;
+  }
+
+  a:hover {  
+        color:blueviolet;
+        
+       
+    
+    
+    
+    
+    }
+  
